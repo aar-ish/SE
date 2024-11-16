@@ -182,14 +182,14 @@ section {
   line-height: 1em;
   font-family: "Inter",sans-serif;
   font-weight: bold;
-  font-size: 60px;
+  font-size: 3.2rem;
 }
 .hero-img-text{
   position: absolute;
-  bottom:22.5em;
-  left:8.5%;
+  bottom:22em;
+  left:8%;
   color: black;
-  letter-spacing: 8.5px;
+  letter-spacing:6.5px;
   font-family:Arial, Helvetica, sans-serif
 }
 .hero-h1-span{
