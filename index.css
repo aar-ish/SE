@@ -646,6 +646,7 @@ footer {
   }
   .about-heading {
     margin-bottom: 4em;
+    max-width: 40%;
   }
   .about-details {
     display: flex;
@@ -704,6 +705,9 @@ footer {
     align-items: flex-start;
     text-align: left;
     margin-bottom: 5em;
+  }
+  .links a{
+    text-decoration: none;
   }
   .contact-details p {
     text-align: left;
