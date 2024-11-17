@@ -732,4 +732,7 @@ footer {
     margin-right: 0;
     font-size: 36px;
   }
+  .hello{
+    padding: 1em 0;
+  }
 }
