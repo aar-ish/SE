@@ -591,7 +591,6 @@ footer {
     color: #e31445;
   }
   .hero-img {
-    position: relative;
     font-family: "Inter", sans-serif;
     font-weight: bold;
     font-size: 80px;
@@ -600,9 +599,6 @@ footer {
     line-height: 1em;
   }
   .hero-img-text {
-    position: absolute;
-    bottom: 45%;
-    left: 5%;
     font-size: 30px;
     letter-spacing: 10px;
   }
